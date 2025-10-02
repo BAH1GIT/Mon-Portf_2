@@ -6,9 +6,11 @@
 }
 
 body {
-    background: #1f242d;
+    background-image: url(image/pexels-david-besh-884788.jpg);
+    background-position: center;
+    background-size: cover;
     color: #fff;
-    padding: 20px;
+    padding:20px 0;
 }
 
 .header {
